@@ -1,0 +1,15 @@
+#HttpOnly_.google.com	TRUE	/	TRUE	1730306741	AEC	AQTF6HwNV7EkntFSloisFhW8vcwYrOz8ZciGlzMBZMCu2cGMN6fGh5vCvPk	Lax
+www.google.com	FALSE	/	FALSE	1714755343	DV	g4IfmsGM8a8f0J-HU_sc0ecyY4718xg	None
+#HttpOnly_.youtube.com	TRUE	/	TRUE	1730306743	VISITOR_INFO1_LIVE	wMXJOteejrA	None
+#HttpOnly_.youtube.com	TRUE	/	TRUE	1730306743	VISITOR_PRIVACY_METADATA	CgJDQRIEGgAgUw%3D%3D	None
+#HttpOnly_en.wikipedia.org	FALSE	/	TRUE	1717502400	WMF-Last-Access	03-May-2024	None
+#HttpOnly_.wikipedia.org	TRUE	/	TRUE	1717502400	WMF-Last-Access-Global	03-May-2024	None
+#HttpOnly_en.wikipedia.org	FALSE	/	TRUE	1714780800	WMF-DP	928	None
+#HttpOnly_login.wikimedia.org	FALSE	/	TRUE	1717502400	WMF-Last-Access	03-May-2024	None
+en.wikipedia.org	FALSE	/	TRUE	1714758359	NetworkProbeLimit	0.001	None
+#HttpOnly_meta.wikimedia.org	FALSE	/	TRUE	1717502400	WMF-Last-Access	03-May-2024	None
+meta.wikimedia.org	FALSE	/	TRUE	1714758359	NetworkProbeLimit	0.001	None
+#HttpOnly_.docs.google.com	TRUE	/document/d/15oOficO6pT9x3edO1803BWCc-Ej6EiFjl66Wb3PanUk	TRUE	1714758866	COMPASS	documents=CmIACWuJV1SE6DY6ank-WvasTw3xKv7VK3FJ3777A776SzawJZXsbne586nHumXAjGBVC8plzsyPUNAA57LQN8V74kUTPoadI0e6T_P6FQs27b07hMATH3C_6RyAawlUOyhHVhDSydSxBhpzAAlriVdMNdbaabD1VC3EfLOwFfFM8M_kOrH1hVkqLdX3_ZYWyKjlhBQ9xLdcQP5jIVkDuitCKIKJdqf8JRhY58A8J-1ffMmUaz97Kl-lnzkx6AncoZTdj5NMk-J00sGtHZ46rRxQY3-7hHwoD4bSgtHokw==	None
+#HttpOnly_.google.com	TRUE	/	FALSE	1730566470	NID	513=eeqeKWHkpDoPBlBg0fNCuBNwtCqsWHEYKZszjR4a6AMhGpiJtYygHFviIsnJIi8eLrVFJfdBfiyaXhtat99c_K9eL3fScAytryyKJDBTAvDp57AiLOwEDRMv2mxK_PUH_6xVas7W6U5hqUNmkWff1mhIBuW_e9eMezJ6v6u7vcVmg7t6OhhyJQyhG__UTQ	None
+#HttpOnly_accounts.google.com	FALSE	/	TRUE	1777827272	__Host-GAPS	1:XESJ9yppQzfiBSmMgcir4ttImbBcOA:WBBhAkVWBU1qhAsX	None
+contacts.google.com	FALSE	/	TRUE	1717347273	OTZ	7540855_72_76_104100_72_446760	None
